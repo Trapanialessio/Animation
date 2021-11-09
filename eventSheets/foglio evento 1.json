@@ -1,0 +1,53 @@
+{
+	"name": "Foglio evento 1",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-enabled",
+					"objectClass": "Bird",
+					"sid": 324831345209664,
+					"behaviorType": "MuoviVerso"
+				}
+			],
+			"actions": [
+				{
+					"id": "move-to-position",
+					"objectClass": "Bird",
+					"sid": 618002693686293,
+					"behaviorType": "MuoviVerso",
+					"parameters": {
+						"x": "2055",
+						"y": "727",
+						"mode": "direct"
+					}
+				}
+			],
+			"sid": 248947711521127
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-arrived",
+					"objectClass": "Bird",
+					"sid": 963655356539062,
+					"behaviorType": "MuoviVerso"
+				}
+			],
+			"actions": [
+				{
+					"id": "set-x",
+					"objectClass": "Bird",
+					"sid": 633702512891780,
+					"parameters": {
+						"x": "-50"
+					}
+				}
+			],
+			"sid": 159287761082813
+		}
+	],
+	"sid": 480815211350762
+}

@@ -1,0 +1,97 @@
+{
+	"name": "Sun",
+	"plugin-id": "Sprite",
+	"sid": 968155082468486,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 149,
+						"height": 149,
+						"originX": 0.48322147651006714,
+						"originY": 0.4966442953020134,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 1749530,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 152,
+						"height": 152,
+						"originX": 0.48322147651006714,
+						"originY": 0.4966442953020134,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 2156624,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 156,
+						"height": 156,
+						"originX": 0.48322147651006714,
+						"originY": 0.4966442953020134,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 2950097,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 170,
+						"height": 170,
+						"originX": 0.48322147651006714,
+						"originY": 0.4966442953020134,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 977825,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 156,
+						"height": 156,
+						"originX": 0.48322147651006714,
+						"originY": 0.4966442953020134,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 4825245,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 152,
+						"height": 152,
+						"originX": 0.48322147651006714,
+						"originY": 0.4966442953020134,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 5983160,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 323025946523037,
+				"name": "Sun Glowing",
+				"isLooping": true,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

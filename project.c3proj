@@ -1,0 +1,249 @@
+{
+	"projectFormatVersion": 1,
+	"savedWithRelease": 26800,
+	"name": "Compito - animazione",
+	"runtime": "c3",
+	"useWorker": "auto",
+	"bundleAddons": false,
+	"usedAddons": [
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Sprite",
+			"author": "Scirra",
+			"version": "r268",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "TiledBg",
+			"name": "Sfondo affiancato",
+			"author": "Scirra",
+			"version": "r268",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "MoveTo",
+			"name": "Muovi verso",
+			"author": "Scirra",
+			"version": "r268",
+			"bundled": false
+		}
+	],
+	"uniqueId": "siuuxdgkzig",
+	"objectTypes": {
+		"items": [
+			"Sun",
+			"Sky",
+			"Mountain1",
+			"Mountain2",
+			"Mountain3",
+			"Mountain4",
+			"BG_Tree",
+			"Cloud",
+			"Cloud2",
+			"Cloud3",
+			"Cloud4",
+			"Cloud5",
+			"Cloud6",
+			"Cloud7",
+			"Cloud8",
+			"Cloud9",
+			"Cloud10",
+			"Cloud11",
+			"BG_Tree2",
+			"BG_Tree3",
+			"BG_Tree4",
+			"BG_Tree5",
+			"BG_Tree6",
+			"BG_Tree7",
+			"BG_Tree8",
+			"BG_Tree9",
+			"BG_Tree10",
+			"BG_Tree11",
+			"BG_Tree12",
+			"BG_Tree13",
+			"BG_Tree14",
+			"Lake",
+			"SunReflection",
+			"SunReflection2",
+			"SunReflection3",
+			"SunReflection4",
+			"SunReflection5",
+			"SunReflection6",
+			"SunReflection7",
+			"SunReflection8",
+			"SunReflection9",
+			"Grass",
+			"Bird",
+			"Bird2"
+		],
+		"subfolders": []
+	},
+	"autosaveData": null,
+	"containers": [],
+	"families": {
+		"items": [],
+		"subfolders": []
+	},
+	"layouts": {
+		"items": [
+			"Layout 1"
+		],
+		"subfolders": []
+	},
+	"eventSheets": {
+		"items": [
+			"Foglio evento 1"
+		],
+		"subfolders": []
+	},
+	"rootFileFolders": {
+		"script": {
+			"items": [],
+			"subfolders": []
+		},
+		"sound": {
+			"items": [],
+			"subfolders": []
+		},
+		"music": {
+			"items": [],
+			"subfolders": []
+		},
+		"video": {
+			"items": [],
+			"subfolders": []
+		},
+		"font": {
+			"items": [],
+			"subfolders": []
+		},
+		"icon": {
+			"items": [
+				{
+					"name": "Icona-16.png",
+					"type": "image/png",
+					"sid": 465385015559679,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Icona-32.png",
+					"type": "image/png",
+					"sid": 224587593896738,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Icona-64.png",
+					"type": "image/png",
+					"sid": 112406547331633,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Icona-128.png",
+					"type": "image/png",
+					"sid": 511153764812384,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Icona-256.png",
+					"type": "image/png",
+					"sid": 690686941048688,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Icona-512.png",
+					"type": "image/png",
+					"sid": 528557156140153,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Caricamento-logo.png",
+					"type": "image/png",
+					"sid": 500351223199365,
+					"icon-info": {
+						"purpose": "loading-logo"
+					}
+				}
+			],
+			"subfolders": []
+		},
+		"general": {
+			"items": [],
+			"subfolders": []
+		}
+	},
+	"timelines": {
+		"items": [
+			"Timeline 1"
+		],
+		"subfolders": [
+			{
+				"items": [],
+				"subfolders": []
+			}
+		]
+	},
+	"properties": {
+		"description": "",
+		"version": "1.0.0.0",
+		"author": "",
+		"authorEmail": "",
+		"authorWebsite": "",
+		"appId": "",
+		"pixelRounding": false,
+		"useLoaderLayout": false,
+		"fullscreenMode": "letterbox-scale",
+		"fullscreenQuality": "high",
+		"viewportFit": "auto",
+		"backgroundColor": [
+			0,
+			0,
+			0,
+			0
+		],
+		"splashColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"useThemeColor": false,
+		"themeColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"orientations": "landscape",
+		"gpuPreference": "high-performance",
+		"scriptsType": "module",
+		"framerateMode": "vsync",
+		"compositingMode": "standard",
+		"sampling": "trilinear",
+		"downscaling": "medium",
+		"renderingMode": "auto",
+		"anisotropicFiltering": "auto",
+		"maxSpriteSheetSize": 2048,
+		"loaderStyle": "splash",
+		"preloadSounds": true,
+		"cordovaiOSScheme": "app",
+		"cordovaAndroidScheme": "https"
+	},
+	"viewportWidth": 1920,
+	"viewportHeight": 1080,
+	"firstLayout": null
+}

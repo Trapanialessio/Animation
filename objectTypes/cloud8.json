@@ -1,0 +1,97 @@
+{
+	"name": "Cloud8",
+	"plugin-id": "Sprite",
+	"sid": 502772429922680,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 153,
+						"height": 66,
+						"originX": 0.5686274509803921,
+						"originY": 0.8333333333333334,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 1949689,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 149,
+						"height": 62,
+						"originX": 0.5686274509803921,
+						"originY": 0.8333333333333334,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 4608857,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 145,
+						"height": 58,
+						"originX": 0.5686274509803921,
+						"originY": 0.8333333333333334,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3814457,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 141,
+						"height": 54,
+						"originX": 0.5686274509803921,
+						"originY": 0.8333333333333334,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 4071061,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 145,
+						"height": 58,
+						"originX": 0.5686274509803921,
+						"originY": 0.8333333333333334,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 2557761,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 149,
+						"height": 62,
+						"originX": 0.5686274509803921,
+						"originY": 0.8333333333333334,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 9434007,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 329161613357020,
+				"name": "Scala",
+				"isLooping": true,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

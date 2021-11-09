@@ -1,0 +1,49 @@
+{
+	"name": "SunReflection9",
+	"plugin-id": "Sprite",
+	"sid": 111929784027621,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 175,
+						"height": 115,
+						"originX": 0.37142857142857144,
+						"originY": 0.5478260869565217,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 7712202,
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 175,
+						"height": 115,
+						"originX": 0.37142857142857144,
+						"originY": 0.5478260869565217,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 9745570,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 607272999785347,
+				"name": "Animation 1",
+				"isLooping": true,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 4
+			}
+		],
+		"subfolders": []
+	}
+}
