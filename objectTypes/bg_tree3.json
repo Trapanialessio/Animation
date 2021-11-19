@@ -1,7 +1,7 @@
 {
 	"name": "BG_Tree3",
 	"plugin-id": "Sprite",
-	"sid": 306552237400631,
+	"sid": 168352267503585,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -18,18 +18,18 @@
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 7925408,
+						"imageSpriteId": 3871163,
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 747267222370651,
+				"sid": 607330629424128,
 				"name": "Animation 1",
-				"isLooping": false,
+				"isLooping": true,
 				"isPingPong": false,
 				"repeatCount": 1,
 				"repeatTo": 0,
-				"speed": 5
+				"speed": 2
 			}
 		],
 		"subfolders": []
